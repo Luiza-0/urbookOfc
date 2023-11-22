@@ -8,7 +8,7 @@ O UrBook, ou "Your Book", é um aplicativo inovador que serve como seu catálogo
   <tr>
     <td align="center">
       <a href="https://www.figma.com/proto/mfh38UIxhZ1PlUHG2mYcuk/Untitled?type=design&node-id=2-2&t=TpcdOQCSL7WF0vDx-0&scaling=scale-down&page-id=0%3A1">
-        <img src="https://i9.ytimg.com/vi/BcIUCHkiDQg/mqdefault.jpg?v=652702a6&sqp=CJyJnKkG&rs=AOn4CLClMBjDteYkrUuu4Wh0zJMv8Jg1HA" width="100px;" alt="Link do Figma"/><br>
+        <img src="https://github.com/Luiza-0/urbookOfc/blob/main/src/assets/cadeira.png" width="100px;" alt="Link do Figma"/><br>
         <sub>
           <b>Prototipo</b>
         </sub>
@@ -22,17 +22,47 @@ A tela inicial recebe os usuários com uma interface amigável, enquanto a tela 
 
 ## Imagens ilustrativas do projeto em funcionamento
 
-<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_01.jpeg" width="200px" alt="Tela Inicial">
-
-<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_02.jpeg" width="200px" alt="Tela Home">
-
-<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_03.jpeg" width="200px" alt="Aba de navegacao">
-
-<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_04.jpeg" width="200px" alt="Tela Detalhes do Livro">
-
-<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_05.jpeg" width="200px" alt="Tela Detalhes do Livro - Livro ja lido">
-
-<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_06.jpeg" width="200px" alt="Seção na tela Home - Livros ja lidos">
+<table>
+  <tr>
+    <td align="center">
+        <img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_01.jpeg" width="200px;" alt="Tela Inicial"/><br>
+        <sub>
+          <b>Tela Inicial</b>
+        </sub>
+    </td>
+ <td align="center">
+        <img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_02.jpeg" width="200px;" alt="Tela Home"/><br>
+        <sub>
+          <b>Tela Home</b>
+        </sub>
+    </td>
+     <td align="center">
+        <img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_03.jpeg" width="200px;" alt="Aba de Navegação"/><br>
+        <sub>
+          <b>Aba de Navegação</b>
+        </sub>
+    </td>
+     <td align="center">
+        <img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_04.jpeg" width="200px;" alt="Tela Detalhes do Livro"/><br>
+        <sub>
+          <b>Tela Detalhes do Livro</b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+        <img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_05.jpeg" width="200px;" alt="Tela Detalhes - Livros Lidos"/><br>
+        <sub>
+          <b>Tela Detalhes - Livros Lidos</b>
+        </sub>
+    </td>
+     <td align="center">
+        <img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_06.jpeg" width="200px;" alt="Tela Home - Livros Lidos"/><br>
+        <sub>
+          <b>Tela Home - Livros Lidos</b>
+        </sub>
+    </td>
+  </tr>
+</table>
 
 ## :wrench: Tecnologias utilizadas
 O desenvolvimento do UrBook está sendo realizado no Vs Code, utilizando React Native como a principal tecnologia de construção do aplicativo.
@@ -45,18 +75,19 @@ Para rodar o aplicativo, é necessário configurar o ambiente de desenvolvimento
 * 3 - Instalar o Visual Studio Code.
 * 4 - Utilizar um emulador ou dispositivo físico.
 
-  * Se optar por um dispositivo físico, baixar o aplicativo Expo Go para visualizar o app.
+  * Comandos de instalação:
+    * npm install @react-navigation/native
+    * npx expo install react-native-screens react-native-safe-area-context
+    * npm add axios
+    * npm install zustand
+    * npm install @react-navigation/stack   
+    * npm install react-native-gesture-handler
+    * npm install @react-native-masked-view/masked-view
+    *  npm install react-native-animatable
+    * npx expo install @expo-google-fonts/palanquin 
+    * npx expo start
 
-* npm install @react-navigation/native
-* npx expo install react-native-screens react-native-safe-area-context
-* npm add axios
-* npm install zustand
-* npm install @react-navigation/stack   
-* npm install react-native-gesture-handler
-* npm install @react-native-masked-view/masked-view
-* npm install react-native-animatable
-* npx expo install @expo-google-fonts/palanquin 
-* npx expo start
+  *  Se optar por um dispositivo físico, baixar o aplicativo Expo Go para visualizar o app.
 
 ## :rocket: Passo a Passo do Desenvolvimento do Projeto
 O desenvolvimento do UrBook segue uma abordagem iterativa e centrada no usuário. Começando com a criação da interface de usuário no React Native, passamos para a implementação das funcionalidades principais, como a organização das seções na tela "Home" e a exibição detalhada do livro. A integração com o Expo facilita o teste em emuladores e dispositivos físicos, proporcionando uma experiência de desenvolvimento ágil e eficiente.
