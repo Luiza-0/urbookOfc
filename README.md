@@ -20,7 +20,7 @@ O UrBook, ou "Your Book", é um aplicativo inovador que serve como seu catálogo
 ## :books: Funcionalidades
 A tela inicial recebe os usuários com uma interface amigável, enquanto a tela "Home" apresenta uma lista diversificada de seções organizadas por interesses. Os usuários podem explorar gêneros de sua preferência, realizar pesquisas por livros específicos e obter informações detalhadas. A "Página de Detalhes do Livro" permite que os leitores leiam sinopses, marquem livros como favoritos ou lidos, e expressem suas avaliações pessoais.
 
-## Imagens ilustrativas do projeto em funcionamento
+## :framed_picture: Imagens ilustrativas do projeto em funcionamento
 
 <table>
   <tr>
@@ -89,7 +89,7 @@ Para rodar o aplicativo, é necessário configurar o ambiente de desenvolvimento
 
   *  Se optar por um dispositivo físico, baixar o aplicativo Expo Go para visualizar o app.
 
-## :rocket: Passo a Passo do Desenvolvimento do Projeto
+## :building_construction: Passo a Passo do Desenvolvimento do Projeto
 O desenvolvimento do UrBook segue uma abordagem iterativa e centrada no usuário. Começando com a criação da interface de usuário no React Native, passamos para a implementação das funcionalidades principais, como a organização das seções na tela "Home" e a exibição detalhada do livro. A integração com o Expo facilita o teste em emuladores e dispositivos físicos, proporcionando uma experiência de desenvolvimento ágil e eficiente.
 Passos do desenvolvimento
 
