@@ -22,17 +22,17 @@ A tela inicial recebe os usuários com uma interface amigável, enquanto a tela 
 
 ## Imagens ilustrativas do projeto em funcionamento
 
-<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_01.jpeg" alt="Tela Inicial">
+<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_01.jpeg" width="200px" alt="Tela Inicial">
 
-<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_02.jpeg" alt="Tela Home">
+<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_02.jpeg" width="200px" alt="Tela Home">
 
-<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_03.jpeg" alt="Aba de navegacao">
+<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_03.jpeg" width="200px" alt="Aba de navegacao">
 
-<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_04.jpeg" alt="Tela Detalhes do Livro">
+<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_04.jpeg" width="200px" alt="Tela Detalhes do Livro">
 
-<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_05.jpeg" alt="Tela Detalhes do Livro - Livro ja lido">
+<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_05.jpeg" width="200px" alt="Tela Detalhes do Livro - Livro ja lido">
 
-<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_06.jpeg" alt="Seção na tela Home - Livros ja lidos">
+<img src="https://github.com/Luiza-0/urbookOfc/blob/main/imgs_readme/tela_06.jpeg" width="200px" alt="Seção na tela Home - Livros ja lidos">
 
 ## :wrench: Tecnologias utilizadas
 O desenvolvimento do UrBook está sendo realizado no Vs Code, utilizando React Native como a principal tecnologia de construção do aplicativo.
